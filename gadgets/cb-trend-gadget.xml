@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="CheBanca! issue trend chart" description="CheBanca! issue trend chart" author="Domenico Giannotta" author_email="domenico.giannotta@chebanca.it">
+  <ModulePrefs 	title="CheBanca! issue trend chart" 
+				description="CheBanca! issue trend chart" 
+				author="Domenico Giannotta" 
+				author_email="domenico.giannotta@chebanca.it"
+				thumbnail="https://www.chebanca.it/wps/wcm/connect/img/home_icon_mobile.png">
     <Optional feature="gadget-directory">
       <Param name="categories">Other</Param>
     </Optional>
   </ModulePrefs>
   <Content type="html">
     <![CDATA[
-    Hello world! aaaaaaa
+    Hello world!
     ]]>
   </Content>
 </Module>
