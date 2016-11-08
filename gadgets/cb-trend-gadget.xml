@@ -8,6 +8,7 @@
     <Optional feature="gadget-directory">
       <Param name="categories">Other</Param>
     </Optional>
+	<Require feature="dynamic-height"/>
   </ModulePrefs>
   <Content type="html">
 	
