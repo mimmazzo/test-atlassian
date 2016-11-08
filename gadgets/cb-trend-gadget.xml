@@ -9,6 +9,7 @@
       <Param name="categories">Other</Param>
     </Optional>
 	<Require feature="dynamic-height"/>
+	<Require feature="views" />
   </ModulePrefs>
   <Content type="html">
 	
